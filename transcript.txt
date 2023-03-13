@@ -1,0 +1,34 @@
+﻿Davis L (06/02/2023 20:55:41): Hello Oscar. An agent will be with you shortly. 
+Davis L (06/02/2023 20:56:45): ¡Hola! Gracias por contactar con el soporte de Coursera, estamos encantados de ayudarle con su acceso a la plataforma de IBM para realizar sus practicazs del curso. 
+Oscar (06/02/2023 20:57:09): ok, muchas  gracias 
+Oscar (06/02/2023 20:57:35): como accedo? 
+Davis L (06/02/2023 20:58:04): En este caso, podria enviarnos una imagen del error que le aparece al intentar acceder? 
+Oscar (06/02/2023 20:58:32): si 
+Davis L (06/02/2023 20:58:43): Gracias tome su tiempo. 
+Oscar (06/02/2023 21:00:45): en la Semana 3 de "Tools for Data science", video "Creating an account in IBM Watson Studio" aparece el link https://dataplatform.cloud.ibm.com/ 
+Oscar (06/02/2023 21:01:18): pero melo redirige a https://eu-gb.dataplatform.cloud.ibm.com/registration/steptwo?context=cpdaas 
+Oscar (06/02/2023 21:01:39): y me aparece la siguiente pantalla 
+Davis L (06/02/2023 21:03:01): Gracias ingrese su imagen aqui 
+Davis L (06/02/2023 21:06:00): Thank you for the information, one moment please. 
+Oscar (06/02/2023 21:06:26): ok 
+Davis L (06/02/2023 21:07:46): Estamos revisando la informacion, un momento porfavor. 
+Oscar (06/02/2023 21:08:05): ok, espero 
+Davis L (06/02/2023 21:10:24): Seguimos trabajando un momento porfavor. 
+Oscar (06/02/2023 21:10:36): ok 
+Davis L (06/02/2023 21:12:02): Lamento los problemas que está experimentando con su curso de IBM.
+
+Para obtener más información, envíe un correo electrónico a support@cognitiveclass.ai con los siguientes datos:
+
+Cuerpo del correo electrónico/Contenido: 
+- Nombre del curso que está realizando: 
+- El mensaje de error que está mostrando : - El ID del correo electrónico que se utilizó para crear la cuenta de IBM Cloud: 
+Oscar (06/02/2023 21:12:47): con eso tendré respuesta? 
+Oscar (06/02/2023 21:12:53): podran solucionarlo? 
+Davis L (06/02/2023 21:13:50): Entendemos que su curso es importante para usted, en este caso, ya que el problema es directamente con la plataforma de IBM ellos solucionaran el problema, y con ese correo recibira una respuesta mas rapida Oscar, apreciamos su comprension. 
+Oscar (06/02/2023 21:14:35): ok, preparo el mail y lo envio. Mucas gracias 
+Davis L (06/02/2023 21:15:00): ¡De nada! ¿Puedo hacer algo más por usted? 
+Oscar (06/02/2023 21:15:04): otr consulta. Escribo en español, está bien? 
+Davis L (06/02/2023 21:15:29): Le recomendamos que escriba su correo en ingles Oscar. 
+Oscar (06/02/2023 21:15:54): ok, muchas gracias 
+Davis L (06/02/2023 21:16:10): Estoy encantado de ayudarle, gracias por ponerse en contacto con Coursera Apoyo, tenga un buen día! 
+Oscar (06/02/2023 21:16:25): igualmente. Saludos cordiales 
